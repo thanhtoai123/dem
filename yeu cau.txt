@@ -1,0 +1,3 @@
+Các bạn hoàn thành phần slider nhé!!!
+1. Tài liệu ảnh trong thư mục img
+2. Link thư viện: https://owlcarousel2.github.io/OwlCarousel2/docs/started-installation.html
